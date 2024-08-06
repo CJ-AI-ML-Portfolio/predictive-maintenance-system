@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environment
+env/
+venv/
+.venv/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
